@@ -5,10 +5,10 @@
 
 .contacts__item {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-top: 20px;
     margin-left: 30px;
-
-
 }
 
 .contacts__text {
@@ -20,9 +20,9 @@
 
 .contacts__delBtn {
     color: black;
-    font-size: 12px;
-    font-weight: 500;
-    padding: 10px;
+    font-size: 14px;
+    padding: 14px;
+    margin-left: 15px;
     border: none;
     border-radius: 10px;
     background-color: beige;
